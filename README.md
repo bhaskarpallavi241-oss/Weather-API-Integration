@@ -42,7 +42,9 @@ Features:
 
 OUTPUT:
 
-Image
+<img width="1343" height="642" alt="Image" src="https://github.com/user-attachments/assets/a265c4b2-32c6-4420-9aca-c50a33ded710" />
+
+
 AUTHOR:
 
 https://github.com/bhaskarpallavi241-oss
